@@ -1,4 +1,4 @@
-// //solid pattern  
+//solid pattern  with alternate row 
 
 // #include<stdio.h>
 // int main()
